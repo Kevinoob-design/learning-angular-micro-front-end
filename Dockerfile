@@ -7,6 +7,6 @@ RUN apk update \
     && apk add gcc \
     && apk add g++
 
-COPY ./package.json .
+COPY ./package.json ./decorate-angular-cli.js ./
 RUN yarn
 CMD ["yarn", "start"]
