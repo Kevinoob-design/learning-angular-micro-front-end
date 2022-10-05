@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "npmScope": "angular-micro-front-end",
+  "npmScope": "workspace",
   "affected": {
     "defaultBase": "main"
   },
