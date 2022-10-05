@@ -19,7 +19,9 @@
         "companies",
         "node",
         "typescript",
-        "npm"
+        "npm",
+        "HTML",
+        "CSS"
     ],
     "words": [
         "amqp",
@@ -31,6 +33,7 @@
         "compodoc",
         "devkit",
         "dtos",
+        "frontends",
         "medicalcore",
         "microservices",
         "mongodb",
