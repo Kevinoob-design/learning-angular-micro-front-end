@@ -1,0 +1,19 @@
+{
+    "configurations": [
+
+    ],
+    "compounds": [
+        {
+            "stopAll": true,
+            "name": "Compound",
+            "presentation": {
+                "hidden": false,
+                "group": "",
+                "order": 1
+            },
+            "configurations": [
+
+            ]
+        }
+    ]
+}
